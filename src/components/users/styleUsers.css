@@ -1,0 +1,29 @@
+
+.users{
+  color:yellow;
+}
+
+.img-users{width: 100px;}
+
+.users-block {
+    display: flex;
+}
+
+.users-block > * {
+    color: white;
+    font-size: 1rem;
+    margin: 0.2rem;
+    
+}
+
+.users-content{
+    border: 0.1rem solid gray;
+    display: flex;
+}
+
+
+.wrapper {
+    color: green;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
